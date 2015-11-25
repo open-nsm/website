@@ -1,0 +1,3 @@
+#!/bin/bash
+jekyll build
+scp -rv _site/* open-nsm@web1.osuosl.org:/home/open-nsm/htdocs

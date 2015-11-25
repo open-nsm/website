@@ -1,0 +1,16 @@
+# Site settings
+title: OpenNSM
+email: info@open-nsm.net
+description: > # this means to ignore newlines until "baseurl:"
+  OpenNSM
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: ""
+twitter_username: OpenNSM
+github_username: open-nsm
+
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
