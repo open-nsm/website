@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /home/
+permalink: /
 ---
 
 Page of the Open (-Source) Network Security Monitoring Group (OpenNSM).
