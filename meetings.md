@@ -9,6 +9,7 @@ permalink: /meetings/
 [Siebel Center](https://cs.illinois.edu/about-us/about-siebel-center).
 
 ### Past Presentations
+* 2015-12-09 [SniffyDB](https://github.com/busterbytes/SniffyDB) by [Shane Rogers](http://busterbytes.com) & Simon Kim, [Video](https://www.youtube.com/watch?v=Ti4T7JMJZcw)
 * 2015-09-29 [AFL-Fuzz and Bro](https://bro.org) by [Justin Azoff](https://github.com/justinazoff), [Video](https://www.youtube.com/watch?v=y-s_PzFE9EM)
 * 2015-09-08 [ContainNSM](https://github.com/open-nsm/dockerfiles) by [Jon Schipp](https://twitter.com/jonschipp), [Video](https://www.youtube.com/watch?v=H9QjGxC7LaA)
 * 2015-05-11 [Patching Malware](https://github.com/open-nsm/meetings/raw/master/2015-05-11/MalwarePatching_Preso.pptx) by [Adam Kujawa](https://twitter.com/kujman5000), [Video](https://www.youtube.com/watch?v=am7A9Xd53nc)
