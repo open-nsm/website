@@ -45,6 +45,7 @@ things.
 * [Wendy Edwards](https://www.linkedin.com/pub/wendy-edwards/5/8b8/a7b) &mdash; *NSM Course, Dockoo*
 
 ### Contributors
+* [Wayland Morgan](https://nullkey.net/) &mdash; *ContainNSM*
 * [Deedar Huq](https://github.com/deedarhuq) &mdash; *ContainNSM*
 * [Jonathan Klem](http://jonathonklem.com) &mdash; *Website*
 * [Asutosh Rohit Katyal](https://twitter.com/asutoshkatyal) &mdash; *Website*
