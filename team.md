@@ -26,6 +26,14 @@ various conferences including DerbyCon, AIDE, Hack3rCon, BroCon, XSEDE, MOSSCon,
 and more.
 
 <br>
+
+<center>
+
+  [Steve Gatses](https://www.linkedin.com/in/steve-gatses-ba0a9246) &mdash; *Chair*
+</center>
+
+Steve Gatses is an IT Security Engineer at the University of Illinois at Urbana-Champaign.
+
 <center>
   <img src="/images/team/bust3r.png" alt="Shane's pic" height="250" width="250">
 
