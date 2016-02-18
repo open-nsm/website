@@ -28,11 +28,18 @@ and more.
 <br>
 
 <center>
+  <img src="/images/team/steve.png" alt="Steve's pic" height="250" width="250">
 
   [Steve Gatses](https://www.linkedin.com/in/steve-gatses-ba0a9246) &mdash; *Chair*
 </center>
 
-Steve Gatses is an IT Security Engineer at the University of Illinois at Urbana-Champaign.
+Steve Gatses graduated with a Bachelors degree in Management Information Systems from Eastern
+Illinois University. Currently work as an IT Security Engineer at the University
+of Illinois at Urbana-Champaign. He's a proud father of a Siberian Husky named
+Leo. In his spare time he enjoys snowboarding, practicing brazilian jiu-jitsu and
+playing golf.
+
+<br>
 
 <center>
   <img src="/images/team/bust3r.png" alt="Shane's pic" height="250" width="250">
