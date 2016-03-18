@@ -58,6 +58,7 @@ things.
 ### Major Contributors
 * [Mike Downey](http://mikedowney.info) &mdash; *Speaker, ContainNSM, NSM Course*
 * [Wendy Edwards](https://www.linkedin.com/pub/wendy-edwards/5/8b8/a7b) &mdash; *NSM Course, Dockoo*
+* [Justin Azoff](https://www.bouncybouncy.net/) &mdash; *Speaker, FuzzNSM*
 
 ### Contributors
 * [Wayland Morgan](https://nullkey.net/) &mdash; *ContainNSM*
