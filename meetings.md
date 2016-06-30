@@ -5,6 +5,8 @@ permalink: /meetings/
 ---
 
 ### Current
+**Status:** We're are on summer break and will resume in August 2016
+
 **OpenNSM** meets at 6:00pm CST on Tuesdays in Room 216 (basement)
 [Siebel Center](https://cs.illinois.edu/about-us/about-siebel-center).
 
