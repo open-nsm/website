@@ -24,7 +24,7 @@ laid back and friendly environment.
 * [Location](https://cs.illinois.edu/about-us/about-siebel-center) -- Champaign-Urbana, IL
 * [Github](https://github.com/open-nsm)
 * [Twitter](https://twitter.com/OpenNSM)
-* [Slack Team](https://opennsm.slack.com/)
+* [Slack Team](https://opennsm.slack.com/) - We support [XMPP and IRC clients](https://get.slack.help/hc/en-us/articles/201727913-Connecting-to-Slack-over-IRC-and-XMPP)
 * [Facebook Group](https://www.facebook.com/groups/opennsmnow/)
 * IRC: irc.freenode.net ##opennsm 
 
