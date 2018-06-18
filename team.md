@@ -61,7 +61,7 @@ things.
 * [Justin Azoff](https://www.bouncybouncy.net/) &mdash; *Speaker, FuzzNSM*
 
 ### Contributors
-* [Wayland Morgan](https://nullkey.net/) &mdash; *ContainNSM*
+* [Wayland Morgan](http://blog.nullkey.net/) &mdash; *ContainNSM*
 * [Deedar Huq](https://github.com/deedarhuq) &mdash; *ContainNSM*
 * [Jonathan Klem](http://jonathonklem.com) &mdash; *Website*
 * [Asutosh Rohit Katyal](https://twitter.com/asutoshkatyal) &mdash; *Website*
